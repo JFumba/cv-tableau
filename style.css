@@ -1,0 +1,43 @@
+body {
+  background-color: #b7b7b7;
+  font-family:sans-serif;
+}
+table
+{  border: 1px solid black;
+  width: 100%;
+background-color: #f1f1f1;
+
+}
+.bleu {
+  color: #3398bf;
+}
+caption {
+  text-align: left;
+}
+table.balance {
+  height: 100px;
+}
+.year {
+  font-weight: bold;
+}
+.resume {
+  position: absolute;
+  left: 30px;
+  top:9px;
+  background-color: #3398bf;
+  width: 4em;
+  height: 3em;
+  text-align: center;
+color: white;
+
+}
+#txtres {
+  vertical-align:baseline;
+font-size: 50px;
+}
+h1  {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
